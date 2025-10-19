@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Teaching version of the Block Davidson algorithm without using '@'.
-"""
-
 import numpy as np
 import time
 
